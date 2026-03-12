@@ -1,0 +1,1 @@
+# firmwares_Waveshare_RP2350-PiZero
