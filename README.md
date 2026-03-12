@@ -2,7 +2,7 @@
 
 - [MicroPython 1.26](firmwares/MicroPython_WAVESHARE-RP2350-20250807-v1.26.0-16MB/WAVESHARE-RP2350-20250807-v1.26.0-16MB.uf2)
 - [picosms Plus](firmwares/picosmsPlus/picosmsPlus_WaveShareRP2350PiZero_arm_piousb.uf2)
--[Waveshare RP2350-PiZero Examples C, Python, Arduino](firmwares/RP2350-PiZero/)
+- [Waveshare RP2350-PiZero Examples C, Python, Arduino](firmwares/RP2350-PiZero/)
   - [Arduino DVI](firmwares/RP2350-PiZero/Arduino/01-DVI/hello_dvi/)
   - [Arduino USB](firmwares/RP2350-PiZero/Arduino/02-USB/device_info/)
   - [Arduino MicroSD](firmwares/RP2350-PiZero/Arduino/03-MicroSD/)
