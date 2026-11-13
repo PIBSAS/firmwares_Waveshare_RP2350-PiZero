@@ -16,3 +16,6 @@
     ```
     Where N.N.N is the SDK version. This way we can choose our board from a list on [VSCode Raspberry Pi Pico Extension](https://marketplace.visualstudio.com/items?itemName=raspberry-pi.raspberry-pi-pico).
 - [picosms Plus](firmwares/piconesPlus/piconesPlus_WaveShareRP2350PiZero_arm_piousb.uf2)
+
+# Codes examples:
+- [Codes examples](https://github.com/PIBSAS/codes_waveshare_rp2350_pizero)
